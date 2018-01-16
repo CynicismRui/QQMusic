@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_918c0eb1f7ffa1452b3dbdfbc7e0c85fb74f30af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\win\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\pre-dexed\debug\okio-1.9.0_b7bca1c0ba7a7e54cc595c2476c6337e2eb0ba1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\exploded-aar\org.lenve\customshapeimageview\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ce802b8d69d83878057d0d92e74230d2a4805525">
+        <dex dex="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\pre-dexed\debug\org.lenve-customshapeimageview-1.0.0_ec17cec64dcc527d10433ac6ba3760d1129c8fbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\exploded-aar\QQMusic\sharesdk\unspecified\jars\libs\ShareSDK-Wechat-2.7.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3f5bd925fe057b08a4e853c8e1491c2ece45f88d">
+        <dex dex="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-2.7.7_4bfe34635a75a96b485ef8137a0667b3a93872a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_55f61393569ab1fc0f212164fdb6c00369de72e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_530837a74a25db70f41bc9850f94489c04d339f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_bd5ec2974b2ce831f90e126cb22e9c49642b30ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_5517ed91b76aabca92f8dad1213795a95b136fef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\win\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_4d9b0522db5c2945951da93ccb32a2f58da35d7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\exploded-aar\QQMusic\sharesdk\unspecified\jars\libs\ShareSDK-QQ-2.7.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0cbac329f1bb246e884952e0bcf788f44b1df1ff">
+        <dex dex="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\pre-dexed\debug\ShareSDK-QQ-2.7.7_e98220bfe2b0ec9530146fef09ef24d44e666254.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_e003c87e287d752e46dadc8919b757e5356f4b1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_4cabf3f0b9f2903f65f5ee05f9130050b6a47cf3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\exploded-aar\com.android.databinding\library\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="957dc30b1495f8689271e00d56ab09cc9192df02">
+        <dex dex="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\pre-dexed\debug\com.android.databinding-library-1.2.1_337fdd801a637001d83c03ecba83b1ab83afa8a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\exploded-aar\QQMusic\sharesdk\unspecified\jars\libs\MobCommons-2016.0830.1940.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="682ddf277173942f8233a95705ade3c211c3f24c">
+        <dex dex="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\pre-dexed\debug\MobCommons-2016.0830.1940_dd067b942b49dc42ff200b4ce826a6c9bd0282eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_cc5ff5ae7d66da7ec765a2fae3bc9c7617c69db3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\exploded-aar\QQMusic\lrcview\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="95b4bc71fa332b7dc1ced7be48dbf18f73f5757a">
+        <dex dex="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\pre-dexed\debug\QQMusic-lrcview-unspecified_b488538038fd91035af6d90e8a9c94c83218a4b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\exploded-aar\QQMusic\sharesdk\unspecified\jars\libs\ShareSDK-Wechat-Core-2.7.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6c503c78704d2255c27c10e907a5776ab3a92764">
+        <dex dex="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Core-2.7.7_18dc9c82b1ade63e30abcbd5d6d70f5c837185af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_c6cd588f3c9fa9c4a3637791a7b6b10dd62bd393.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\exploded-aar\QQMusic\sharesdk\unspecified\jars\libs\MobTools-2016.0830.1940.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1ffbb128f65dd80090bf66070313ef209734100f">
+        <dex dex="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\pre-dexed\debug\MobTools-2016.0830.1940_7b996284456e4346efa394245ffe29e415e82ed3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\exploded-aar\QQMusic\sharesdk\unspecified\jars\libs\ShareSDK-SinaWeibo-2.7.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8e2691a923646cdfa6f6b1983f2ccd61bd7f52e0">
+        <dex dex="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\pre-dexed\debug\ShareSDK-SinaWeibo-2.7.7_3ce3e9c7061c3e3c81a656829fb7bef0aa903ea8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_8b32032aae33bb0635dc030608ebaefb229c9aa4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\exploded-aar\com.android.databinding\adapters\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c56d29136c2257f63f08c29c4e739efb03b06c7d">
+        <dex dex="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\pre-dexed\debug\com.android.databinding-adapters-1.2.1_6b7deb2aab0138d148af37dcd42e8d8be1178a92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_433e9a854c28a688516b44c357f70b8baaed1c29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\pre-dexed\debug\com.android.volley-volley-1.0.0_bd7635669e48582013c45445dec88902f8ea3c4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\win\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_5680ccb7b4074992c8472477e962eeb116330e73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\android\databinding\baseLibrary\2.2.0\baseLibrary-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e1d81f36ef9a5803689b3e888eb93a8759a17be0">
+        <dex dex="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\pre-dexed\debug\baseLibrary-2.2.0_c6d3acab46ce58625baa05fe618d43ec962f177b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\win\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1_2400b520ab5c65084836ccfc734a6f38e4689ecc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\exploded-aar\QQMusic\sharesdk\unspecified\jars\libs\ShareSDK-Wechat-Moments-2.7.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="dcdcf7aaaf3458d07d3d6c55f9737092ca4c93a1">
+        <dex dex="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Moments-2.7.7_c2602cdc51858a82e663e0eb498716de15ff92c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_10c464a6278df12ee984500b52552fcc2995e3bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_d86e3a576d39d4d3fb91a36ee373bae832659148.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_44d6d26b01ee725fd2e69c16e527702d1c8e7506.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\exploded-aar\QQMusic\sharesdk\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8f07db94e0f773056aaa60bc6639966a4b7bafae">
+        <dex dex="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\pre-dexed\debug\QQMusic-sharesdk-unspecified_57b9efcbb829a4a42b970677e25f06eeb501890f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\exploded-aar\QQMusic\sharesdk\unspecified\jars\libs\ShareSDK-Core-2.7.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9b923fcefe0998105e5972651db9ef38594352c">
+        <dex dex="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\pre-dexed\debug\ShareSDK-Core-2.7.7_a5e975899d72e6e63a49732eef8422bcefb7bb16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_15ddd6c3a0ba102e50562b3c601ebfd54a0e4107.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\win\AndroidStudioProjects\Demo\QQMusic\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_0a0c47acafa17ea890c70ee85a8732b9b8841ac6.jar" />
+    </item>
+
+</items>

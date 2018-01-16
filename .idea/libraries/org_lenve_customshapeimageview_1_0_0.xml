@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="org.lenve:customshapeimageview-1.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/customshapeimageview-1.0.0.aar/a4a2ee7f79c0dd86aa591e66618591c4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/customshapeimageview-1.0.0.aar/a4a2ee7f79c0dd86aa591e66618591c4/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lenve/customshapeimageview/1.0.0/a8aaece8787ebe1d3a5c695b33715bc41486c84e/customshapeimageview-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
